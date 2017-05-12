@@ -1,0 +1,14 @@
+<div ui-tree="options">
+  <ul>
+    <li ng-repeat="node in noeud">
+    <div id="contenaire">  <input type="checkbox" name="{{node.name}}"><span>{{node.name}}</span></div>
+     <div id="contenu">
+      <ul ng-model="node.nodes" >
+           <li ng-repeat="item in node.nodes">
+             <input type="checkbox" name="{{item.name}}"> <span>{{item.name}}</span>
+          </li>
+      </ul>
+     </div>
+</li>
+  </ul>
+</div>

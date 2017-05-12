@@ -1,0 +1,79 @@
+[ 
+      {
+        "id":1,
+        "ChampsA": "A1", 
+        "ChampsB":"B1",
+        "ChampsC": "C1", 
+        "Champs4": "D4", 
+        "Indicateur1":15,
+        "Motif1":15,
+        "Indicateur2":15,
+        "Motif2":15
+      }, 
+      {
+        "id":2,
+        "ChampsA": "A2", 
+       "ChampsB":"B2",
+        "ChampsC": "C2", 
+        "Champs4": "D5", 
+        "Indicateur1":"21",
+        "Motif1":"21",
+        "Indicateur2":"21",
+        "Motif2":"21"
+      }, 
+      {
+         "id":3,
+          "ChampsA": "A3", 
+          "ChampsB":"B3",
+        "ChampsC": "C3", 
+        "Champs4": "D6", 
+        "Indicateur1":27,
+        "Motif1":27,
+        "Indicateur2":27,
+        "Motif2":27
+      },
+     {
+        "id":4,
+        "ChampsA": "A4", 
+        "ChampsB":"B4",
+        "ChampsC": "C4", 
+        "Champs4": "D7", 
+        "Indicateur1":33,
+        "Motif1":33,
+        "Indicateur2":33,
+        "Motif2":33
+      },
+       {
+        "id":5,
+        "ChampsA": "A1", 
+        "ChampsB":"B2",
+        "ChampsC": "C2", 
+        "Champs4": "D5", 
+        "Indicateur1":39,
+        "Motif1":39,
+        "Indicateur2":39,
+        "Motif2":39
+      },
+       {
+         "id":6,
+        "ChampsA": "A2", 
+        "ChampsB":"B3",
+        "ChampsC": "C3", 
+        "Champs4": "D6", 
+        "Indicateur1":45,
+        "Motif1":45,
+        "Indicateur2":45,
+        "Motif2":45
+      },
+       {
+         "id":7,
+        "ChampsA": "A3", 
+        "ChampsB":"B4",
+        "ChampsC": "C4", 
+        "Champs4": "D5", 
+        "Indicateur1":51,
+        "Motif1":51,
+        "Indicateur2":51,
+        "Motif2":51
+      }
+   ] 
